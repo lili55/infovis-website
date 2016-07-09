@@ -12,8 +12,8 @@ Zhejiang University of Technology InfoVis Group Main Page
 
 ### Steps
 >
--[x] 设想网站的形式，找到相关素材  
--[] 写好界面  
--[] 写好后台  
--[] 加入数据库  
--[] 申请域名（花生壳）  
+- [x] 设想网站的形式，找到相关素材  
+- [ ] 写好界面  
+- [ ] 写好后台  
+- [ ] 加入数据库  
+- [ ] 申请域名（花生壳）  
