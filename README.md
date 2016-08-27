@@ -1,4 +1,4 @@
-Zhejiang University of Technology InfoVis Group Main Page
+Zhejiang University of Technology InfoVis Group Home Page
 
 ### Background
 > 看到作为同行的PKU,ZJU的可视化小组的团队主页都成果颇丰，但我们的小组连一个主页都没有，于是有了自己动手做一个主页的想法。
@@ -8,7 +8,7 @@ Zhejiang University of Technology InfoVis Group Main Page
 
 ### 初步构想
 > 网站上应该有哪些板块呢？
-我觉得应该包括但不仅限于**Home**、**Paper Collection**、**VisBook Recommend**、**Members**、**Group Activity**等等,而且我还要加上[浙江工业大学](http://www.zjut.edu.cn)的链接，（吼吼吼，我这么热爱母校我会胡说），
+我觉得应该包括但不仅限于**Home**、**Paper Collection**、**VisBook Recommend**、**Members**、**Group Activity**等等,而且我还要加上[浙江工业大学](http://www.zjut.edu.cn)的链接
 
 ### Steps
 >
