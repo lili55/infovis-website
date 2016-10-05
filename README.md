@@ -17,5 +17,10 @@ So, which parts should include to our little website
 ## Steps
 - [x] Designed interface and search related source material.  
 - [x] Writed interface with bootstrap.    
-- [ ] Add in the links, modify to real information.  
+- [ ] Add in the links, modify to real information.
+
+## Preview
+![index](https://github.com/LiuChunhui1207/infovis-website/index.png)  
+![members](https://github.com/LiuChunhui1207/infovis-website/members.png)  
+![paper-collections](C:\Users\liuchunhui\Desktop\paper-collections.png)
   
