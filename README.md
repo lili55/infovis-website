@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/mz026/universal-redux-template.svg?branch=master)](https://travis-ci.org/mz026/universal-redux-template)
+[![Coverage Status](https://coveralls.io/repos/boennemann/badges/badge.svg)](https://coveralls.io/r/boennemann/badges)
+[![GitHub version](https://badge.fury.io/gh/boennemann%2Fbadges.svg)](http://badge.fury.io/gh/boennemann%2Fbadges)
+
 # ZJUT InfoVis Group Home Page (Version 1.0)
 
 ## Background
@@ -22,5 +26,5 @@ So, which parts should include to our little website
 ## Preview
 ![index](https://github.com/LiuChunhui1207/infovis-website/index.png)  
 ![members](https://github.com/LiuChunhui1207/infovis-website/members.png)  
-![paper-collections](C:\Users\liuchunhui\Desktop\paper-collections.png)
+![paper-collections](https://github.com/LiuChunhui1207/infovis-website/paper-collections.png)
   
