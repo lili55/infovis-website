@@ -25,7 +25,7 @@ So, which parts should include to our little website
 - [ ] Add in the links, modify to real information.
 
 ## Preview
-![index](https://github.com/LiuChunhui1207/infovis-website/index.png)  
-![members](https://github.com/LiuChunhui1207/infovis-website/members.png)  
-![paper-collections](https://github.com/LiuChunhui1207/infovis-website/paper-collections.png)
+![index](./index.png)  
+![members](./members.png)  
+![paper-collections](./paper-collections.png)
   
